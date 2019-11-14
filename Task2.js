@@ -1,4 +1,4 @@
-render(50,50);
+render();
 
 function render() {
     let pole = document.getElementById('pole');
